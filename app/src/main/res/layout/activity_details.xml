@@ -76,7 +76,7 @@
         <CheckBox
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Complete Set 1"
+            android:text="Complete Set 3"
             android:id="@+id/checkBox3"
             android:layout_gravity="center_horizontal"
             android:checked="false"
@@ -89,7 +89,7 @@
         <CheckBox
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Complete Set 1"
+            android:text="Complete Set 4"
             android:id="@+id/checkBox4"
             android:layout_gravity="center_horizontal"
             android:checked="false"
@@ -102,7 +102,7 @@
         <CheckBox
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Complete Set 1"
+            android:text="Complete Set 5"
             android:id="@+id/checkBox5"
             android:layout_gravity="center_horizontal"
             android:checked="false"
